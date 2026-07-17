@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=VD1 Old Footprint=1N4007 New Footprint=SODFL3716X120N
+Change Component Footprint: Designator=VD2 Old Footprint=1N4007 New Footprint=SODFL3716X120N
+Change Component Comment : Designator=VD1 Old Comment=1N4007 New Comment=SM4001PL-TP
+Change Component Comment : Designator=VD2 Old Comment=1N4007 New Comment=SM4001PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component C5 TAJR105K025RNJ
+Added Member To Class: ClassName=BKN-3 Member=Component C6 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C7 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C9 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C10 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C11 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C12 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C13 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C14 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C15 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C16 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C17 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C18 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C19 0603-0.47uF-50V
+Added Member To Class: ClassName=BKN-3 Member=Component C21 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C22 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C24 0603-0.1uF-50V-5%
+Added Member To Class: ClassName=BKN-3 Member=Component C25 0603-0.47uF-50V
+Added Member To Class: ClassName=BKN-3 Member=Component R43 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R44 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component VD1 SM4001PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component VD2 SM4001PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component VD3 SM5819PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component VD4 SM5819PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component VD5 SM5819PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component VD6 SM5819PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component VD7 SM5819PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component VD8 SM5819PL-TP
+Added Member To Class: ClassName=BKN-3 Member=Component XP1 XT60PW-M
+Added Member To Class: ClassName=BKN-3 Member=Component XP2 PLD-6

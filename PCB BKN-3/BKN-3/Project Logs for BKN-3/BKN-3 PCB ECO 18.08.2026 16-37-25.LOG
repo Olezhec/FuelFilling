@@ -1,0 +1,520 @@
+Removed Pin From Net: NetName=12V PWR Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=12V PWR Pin=C9-2
+Removed Pin From Net: NetName=PumpLeftGreen Pin=DD1-8
+Removed Pin From Net: NetName=PumpLeftRed Pin=DD1-9
+Removed Pin From Net: NetName=PumpRightRed Pin=DD1-12
+Removed Pin From Net: NetName=PumpRightGreen Pin=DD1-14
+Removed Pin From Net: NetName=BKN3/1 Pin=DD4-1
+Removed Pin From Net: NetName=NetDD7_6 Pin=DD7-6
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=PumpRightRed Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=PumpRightGreen Pin=R6-2
+Removed Pin From Net: NetName=PumpLeftRed Pin=R7-2
+Removed Pin From Net: NetName=PumpLeftGreen Pin=R8-2
+Removed Pin From Net: NetName=NetR9_1 Pin=R9-1
+Removed Pin From Net: NetName=Vcc Pin=R9-2
+Removed Pin From Net: NetName=NetR10_1 Pin=R10-1
+Removed Pin From Net: NetName=Vcc Pin=R10-2
+Removed Pin From Net: NetName=PumpRightRedLed Pin=R13-1
+Removed Pin From Net: NetName=NetR13_2 Pin=R13-2
+Removed Pin From Net: NetName=PumpRightGreenLed Pin=R14-1
+Removed Pin From Net: NetName=NetR14_2 Pin=R14-2
+Removed Pin From Net: NetName=PumpLeftRedLed Pin=R15-1
+Removed Pin From Net: NetName=Fueling Pin=R18-1
+Removed Pin From Net: NetName=3.3V Pin=R18-2
+Removed Pin From Net: NetName=AUTO Pin=R19-1
+Removed Pin From Net: NetName=3.3V Pin=R19-2
+Removed Pin From Net: NetName=DeFueling Pin=R22-1
+Removed Pin From Net: NetName=3.3V Pin=R22-2
+Removed Pin From Net: NetName=BKN3/1 Pin=R25-1
+Removed Pin From Net: NetName=3.3V Pin=R25-2
+Removed Pin From Net: NetName=NetDD7_6 Pin=R32-2
+Removed Pin From Net: NetName=NetR34_1 Pin=R34-1
+Removed Pin From Net: NetName=NetR36_1 Pin=R36-1
+Removed Pin From Net: NetName=12V PWR Pin=R36-2
+Removed Pin From Net: NetName=NetR37_1 Pin=R37-1
+Removed Pin From Net: NetName=12V PWR Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Pin From Net: NetName=NetR34_1 Pin=R39-2
+Removed Pin From Net: NetName=NetR40_1 Pin=R40-1
+Removed Pin From Net: NetName=12V PWR Pin=R40-2
+Removed Pin From Net: NetName=GND Pin=R43-1
+Removed Pin From Net: NetName=RevUpRight Pin=R43-2
+Removed Pin From Net: NetName=NetR44_1 Pin=R44-1
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=ForDownRight Pin=R45-2
+Removed Pin From Net: NetName=12V PWR Pin=VD4-1
+Removed Pin From Net: NetName=PumpRight+/- Pin=VD5-1
+Removed Pin From Net: NetName=NetR34_1 Pin=VD5-2
+Removed Pin From Net: NetName=12V PWR Pin=VD6-1
+Removed Pin From Net: NetName=PumpRight+/- Pin=VD6-2
+Removed Pin From Net: NetName=12V PWR Pin=VD7-1
+Removed Pin From Net: NetName=12V PWR Pin=VD9-1
+Removed Pin From Net: NetName=NetR34_1 Pin=VD10-2
+Removed Pin From Net: NetName=PumpRightRed Pin=VT1-1
+Removed Pin From Net: NetName=GND Pin=VT1-2
+Removed Pin From Net: NetName=NetR9_1 Pin=VT1-3
+Removed Pin From Net: NetName=PumpRightGreen Pin=VT2-1
+Removed Pin From Net: NetName=GND Pin=VT2-2
+Removed Pin From Net: NetName=NetR10_1 Pin=VT2-3
+Removed Pin From Net: NetName=PumpLeftRed Pin=VT3-1
+Removed Pin From Net: NetName=PumpLeftGreen Pin=VT4-1
+Removed Pin From Net: NetName=NetR9_1 Pin=VT5-1
+Removed Pin From Net: NetName=Vcc Pin=VT5-2
+Removed Pin From Net: NetName=NetR13_2 Pin=VT5-3
+Removed Pin From Net: NetName=NetR10_1 Pin=VT6-1
+Removed Pin From Net: NetName=Vcc Pin=VT6-2
+Removed Pin From Net: NetName=NetR14_2 Pin=VT6-3
+Removed Pin From Net: NetName=NetR36_1 Pin=VT9-3
+Removed Pin From Net: NetName=NetDD7_6 Pin=VT10-1
+Removed Pin From Net: NetName=GND Pin=VT10-2
+Removed Pin From Net: NetName=NetR37_1 Pin=VT10-3
+Removed Pin From Net: NetName=12V PWR Pin=VT11-1
+Removed Pin From Net: NetName=12V PWR Pin=VT11-2
+Removed Pin From Net: NetName=12V PWR Pin=VT11-3
+Removed Pin From Net: NetName=NetR36_1 Pin=VT11-4
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT11-5
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT11-6
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT11-7
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT11-8
+Removed Pin From Net: NetName=NetR30_1 Pin=VT12-1
+Removed Pin From Net: NetName=NetR30_1 Pin=VT12-2
+Removed Pin From Net: NetName=NetR30_1 Pin=VT12-3
+Removed Pin From Net: NetName=RevDownLeft Pin=VT12-4
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT12-5
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT12-6
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT12-7
+Removed Pin From Net: NetName=PumpLeft+/- Pin=VT12-8
+Removed Pin From Net: NetName=12V PWR Pin=VT13-1
+Removed Pin From Net: NetName=12V PWR Pin=VT13-2
+Removed Pin From Net: NetName=NetR37_1 Pin=VT13-4
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT13-5
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT13-6
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT13-7
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT13-8
+Removed Pin From Net: NetName=NetR34_1 Pin=VT14-1
+Removed Pin From Net: NetName=NetR34_1 Pin=VT14-2
+Removed Pin From Net: NetName=NetR34_1 Pin=VT14-3
+Removed Pin From Net: NetName=RevDownRight Pin=VT14-4
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT14-5
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT14-6
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT14-7
+Removed Pin From Net: NetName=PumpRight+/- Pin=VT14-8
+Removed Pin From Net: NetName=12V PWR Pin=VT15-1
+Removed Pin From Net: NetName=12V PWR Pin=VT15-2
+Removed Pin From Net: NetName=12V PWR Pin=VT15-3
+Removed Pin From Net: NetName=NetR40_1 Pin=VT15-4
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT15-5
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT15-6
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT15-7
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT15-8
+Removed Pin From Net: NetName=NetR30_1 Pin=VT16-1
+Removed Pin From Net: NetName=NetR30_1 Pin=VT16-2
+Removed Pin From Net: NetName=NetR30_1 Pin=VT16-3
+Removed Pin From Net: NetName=ForDownLeft Pin=VT16-4
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT16-5
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT16-6
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT16-7
+Removed Pin From Net: NetName=PumpLeft-/+ Pin=VT16-8
+Removed Pin From Net: NetName=12V PWR Pin=VT17-1
+Removed Pin From Net: NetName=12V PWR Pin=VT17-2
+Removed Pin From Net: NetName=NetR44_1 Pin=VT17-4
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT17-5
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT17-6
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT17-7
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT17-8
+Removed Pin From Net: NetName=NetR34_1 Pin=VT18-1
+Removed Pin From Net: NetName=NetR34_1 Pin=VT18-2
+Removed Pin From Net: NetName=NetR34_1 Pin=VT18-3
+Removed Pin From Net: NetName=ForDownRight Pin=VT18-4
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT18-5
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT18-6
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT18-7
+Removed Pin From Net: NetName=PumpRight-/+ Pin=VT18-8
+Removed Pin From Net: NetName=NetR40_1 Pin=VT19-3
+Removed Pin From Net: NetName=RevUpRight Pin=VT20-1
+Removed Pin From Net: NetName=12V PWR Pin=XP1-1
+Removed Pin From Net: NetName=PumpLeftRedLed Pin=XP4-2
+Removed Pin From Net: NetName=PumpRightRedLed Pin=XP4-10
+Removed Pin From Net: NetName=PumpRightGreenLed Pin=XP4-11
+Removed Pin From Net: NetName=BKN3/1 Pin=XP4-14
+Change Component Footprint: Designator=VT12 Old Footprint=8-DFN (5x6) New Footprint=IRF9540NSTRLPBF
+Change Component Footprint: Designator=VT14 Old Footprint=8-DFN (5x6) New Footprint=IRF9540NSTRLPBF
+Change Component Footprint: Designator=VT16 Old Footprint=8-DFN (5x6) New Footprint=IRF9540NSTRLPBF
+Change Component Footprint: Designator=VT18 Old Footprint=8-DFN (5x6) New Footprint=IRF9540NSTRLPBF
+Change Component Footprint: Designator=C9 Old Footprint=C0603 New Footprint=EMVY101ARA101MKE0S
+Change Component Footprint: Designator=R44 Old Footprint=Res0603 New Footprint=Res2512
+Change Component Footprint: Designator=VT11 Old Footprint=SOIC127P600x175-8N New Footprint=IRF640NSTRLPBF
+Change Component Footprint: Designator=VT13 Old Footprint=SOIC127P600x175-8N New Footprint=IRF640NSTRLPBF
+Change Component Footprint: Designator=VT15 Old Footprint=SOIC127P600x175-8N New Footprint=IRF640NSTRLPBF
+Change Component Footprint: Designator=VT17 Old Footprint=SOIC127P600x175-8N New Footprint=IRF640NSTRLPBF
+Change Component Footprint: Designator=VT10 Old Footprint=SOT95P230x110-3N New Footprint=SOT95P237x112-3N
+Change Component Footprint: Designator=VT5 Old Footprint=SOT95P237x112-3N New Footprint=SOT95P230x110-3N
+Change Component Comment : Designator=C9 Old Comment=0603-0.1uF-50V-5% New Comment=EMVY101ARA101MKE0S
+Change Component Comment : Designator=R45 Old Comment=0603-5.1KOhm-5% New Comment=0603-10 Ohm-1%
+Change Component Comment : Designator=R17 Old Comment=0603-5.1KOhm-5% New Comment=0603-12KOhm-5%
+Change Component Comment : Designator=R9 Old Comment=0603-5.1KOhm-5% New Comment=0603-510-10%
+Change Component Comment : Designator=R10 Old Comment=0603-5.1KOhm-5% New Comment=0603-510-10%
+Change Component Comment : Designator=R44 Old Comment=0603-5.1KOhm-5% New Comment=2512-5 mOhm - 1% - 1W
+Change Component Comment : Designator=VT11 Old Comment=AO4425 New Comment=IRF640NSTRLPBF
+Change Component Comment : Designator=VT13 Old Comment=AO4425 New Comment=IRF640NSTRLPBF
+Change Component Comment : Designator=VT15 Old Comment=AO4425 New Comment=IRF640NSTRLPBF
+Change Component Comment : Designator=VT17 Old Comment=AO4425 New Comment=IRF640NSTRLPBF
+Change Component Comment : Designator=VT12 Old Comment=AON6414A New Comment=IRF9540NSTRLPBF
+Change Component Comment : Designator=VT14 Old Comment=AON6414A New Comment=IRF9540NSTRLPBF
+Change Component Comment : Designator=VT16 Old Comment=AON6414A New Comment=IRF9540NSTRLPBF
+Change Component Comment : Designator=VT18 Old Comment=AON6414A New Comment=IRF9540NSTRLPBF
+Change Component Comment : Designator=VT5 Old Comment=IRLML2244TRPBF New Comment=IRLML6244TRPBF
+Change Component Comment : Designator=VT10 Old Comment=IRLML6244TRPBF New Comment=IRLML2244TRPBF
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C22
+Change Component Designator: OldDesignator=C20 NewDesignator=C23
+Change Component Designator: OldDesignator=C21 NewDesignator=C24
+Change Component Designator: OldDesignator=C22 NewDesignator=C25
+Change Component Designator: OldDesignator=C23 NewDesignator=C26
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C26 NewDesignator=C29
+Change Component Designator: OldDesignator=C27 NewDesignator=C30
+Change Component Designator: OldDesignator=C28 NewDesignator=C31
+Change Component Designator: OldDesignator=DD2 NewDesignator=DD4
+Change Component Designator: OldDesignator=DD3 NewDesignator=DD5
+Change Component Designator: OldDesignator=DD4 NewDesignator=DD6
+Change Component Designator: OldDesignator=DD5 NewDesignator=DD7
+Change Component Designator: OldDesignator=DD6 NewDesignator=DD8
+Change Component Designator: OldDesignator=DD7 NewDesignator=DD9
+Change Component Designator: OldDesignator=DD8 NewDesignator=DD10
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R11 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R8
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R19
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Change Component Designator: OldDesignator=R24 NewDesignator=R22
+Change Component Designator: OldDesignator=R26 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R25
+Change Component Designator: OldDesignator=R28 NewDesignator=R34
+Change Component Designator: OldDesignator=R29 NewDesignator=R27
+Change Component Designator: OldDesignator=R30 NewDesignator=R32
+Change Component Designator: OldDesignator=R31 NewDesignator=R35
+Change Component Designator: OldDesignator=R32 NewDesignator=R36
+Change Component Designator: OldDesignator=R33 NewDesignator=R37
+Change Component Designator: OldDesignator=R34 NewDesignator=R39
+Change Component Designator: OldDesignator=R35 NewDesignator=R38
+Change Component Designator: OldDesignator=R36 NewDesignator=R33
+Change Component Designator: OldDesignator=R38 NewDesignator=R43
+Change Component Designator: OldDesignator=R40 NewDesignator=R47
+Change Component Designator: OldDesignator=R41 NewDesignator=R51
+Change Component Designator: OldDesignator=R42 NewDesignator=R28
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD3
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT1
+Change Component Designator: OldDesignator=VT4 NewDesignator=VT2
+Change Component Designator: OldDesignator=VT7 NewDesignator=VT3
+Change Component Designator: OldDesignator=VT8 NewDesignator=VT4
+Change Component Designator: OldDesignator=VT9 NewDesignator=VT6
+Change Component Designator: OldDesignator=VT19 NewDesignator=VT23
+Change Component Designator: OldDesignator=XP3 NewDesignator=XP7
+Change Component Designator: OldDesignator=XP4 NewDesignator=XP8
+Added Component: Designator=C11(Cap0805)
+Added Component: Designator=C13(Cap0805)
+Added Component: Designator=C20(C0603)
+Added Component: Designator=C21(C0603)
+Added Component: Designator=C32(Cap0805)
+Added Component: Designator=C33(Cap0805)
+Added Component: Designator=C34(Cap0805)
+Added Component: Designator=C35(Cap0805)
+Added Component: Designator=DD2(SOT95P280x145-6N)
+Added Component: Designator=DD3(SOT95P280x145-6N)
+Added Component: Designator=L1(SRP1265A-3R3M)
+Added Component: Designator=R11(Res0603)
+Added Component: Designator=R12(Res0603)
+Added Component: Designator=R16(Res0603)
+Added Component: Designator=R17(Res0603)
+Added Component: Designator=R20(Res0603)
+Added Component: Designator=R23(Res0603)
+Added Component: Designator=R26(Res0603)
+Added Component: Designator=R29(Res0603)
+Added Component: Designator=R30(Res0603)
+Added Component: Designator=R31(Res0603)
+Added Component: Designator=R40(Res0603)
+Added Component: Designator=R41(Res0603)
+Added Component: Designator=R42(Res0603)
+Added Component: Designator=R46(Res0603)
+Added Component: Designator=R48(Res0603)
+Added Component: Designator=R49(Res0603)
+Added Component: Designator=R50(Res0603)
+Added Component: Designator=R52(Res0603)
+Added Component: Designator=R53(Res0603)
+Added Component: Designator=R54(Res0603)
+Added Component: Designator=VT7(SOT95P237x112-3N)
+Added Component: Designator=VT8(SOT95P230x110-3N)
+Added Component: Designator=VT9(SOT95P230x110-3N)
+Added Component: Designator=VT19(SOT95P237x112-3N)
+Added Component: Designator=VT21(SOT95P237x112-3N)
+Added Component: Designator=VT22(SOT95P230x110-3N)
+Added Component: Designator=VT24(SOT95P230x110-3N)
+Added Component: Designator=XP3(PLS-2)
+Added Component: Designator=XP4(PLS-2)
+Added Component: Designator=XP5(PLS-2)
+Added Component: Designator=XP6(PLS-2)
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=3.3V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=3.3V Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=PumpRight-/+ Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=PumpLeft-/+ Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=PumpLeft+/- Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=PumpRight+/- Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=NetR14_2 Pin=DD1-8
+Added Pin To Net: NetName=NetR34_1 Pin=DD1-9
+Added Pin To Net: NetName=NetDD7_6 Pin=DD1-10
+Added Pin To Net: NetName=NetR9_1 Pin=DD1-11
+Added Pin To Net: NetName=NetR10_1 Pin=DD1-12
+Added Pin To Net: NetName=NetR13_2 Pin=DD1-14
+Added Pin To Net: NetName=NetR10_1 Pin=DD2-1
+Added Pin To Net: NetName=GND Pin=DD2-2
+Added Pin To Net: NetName=NetR13_2 Pin=DD2-3
+Added Pin To Net: NetName=3.3V Pin=DD2-5
+Added Pin To Net: NetName=NetR14_2 Pin=DD3-1
+Added Pin To Net: NetName=GND Pin=DD3-2
+Added Pin To Net: NetName=NetR34_1 Pin=DD3-3
+Added Pin To Net: NetName=3.3V Pin=DD3-5
+Added Pin To Net: NetName=NetDD7_6 Pin=R5-2
+Added Pin To Net: NetName=NetR9_1 Pin=R6-2
+Added Pin To Net: NetName=BKN3/1 Pin=R13-1
+Added Pin To Net: NetName=Fueling Pin=R16-1
+Added Pin To Net: NetName=3.3V Pin=R16-2
+Added Pin To Net: NetName=AUTO Pin=R17-1
+Added Pin To Net: NetName=3.3V Pin=R17-2
+Added Pin To Net: NetName=DeFueling Pin=R20-1
+Added Pin To Net: NetName=3.3V Pin=R20-2
+Added Pin To Net: NetName=3.3V Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=12V Pin=R29-2
+Added Pin To Net: NetName=12V Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=RevDownLeft Pin=R31-2
+Added Pin To Net: NetName=12V Pin=R33-2
+Added Pin To Net: NetName=12V PWR Pin=R39-1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=12V Pin=R40-2
+Added Pin To Net: NetName=PumpRightRedLed Pin=R42-1
+Added Pin To Net: NetName=PumpRightRed Pin=R42-2
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=PumpRightGreenLed Pin=R45-1
+Added Pin To Net: NetName=PumpRightGreen Pin=R45-2
+Added Pin To Net: NetName=PumpLeftRedLed Pin=R46-1
+Added Pin To Net: NetName=PumpLeftRed Pin=R46-2
+Added Pin To Net: NetName=PumpLeftGreen Pin=R47-1
+Added Pin To Net: NetName=12V Pin=R47-2
+Added Pin To Net: NetName=NetR44_1 Pin=R48-1
+Added Pin To Net: NetName=12V Pin=R48-2
+Added Pin To Net: NetName=GND Pin=R49-1
+Added Pin To Net: NetName=ForDownLeft Pin=R49-2
+Added Pin To Net: NetName=NetR37_1 Pin=R50-1
+Added Pin To Net: NetName=12V Pin=R50-2
+Added Pin To Net: NetName=NetR36_1 Pin=R52-1
+Added Pin To Net: NetName=12V Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=ForDownRight Pin=R53-2
+Added Pin To Net: NetName=GND Pin=R54-1
+Added Pin To Net: NetName=RevUpRight Pin=R54-2
+Added Pin To Net: NetName=PumpRight+/- Pin=VD5-2
+Added Pin To Net: NetName=PumpRight+/- Pin=VD6-1
+Added Pin To Net: NetName=12V PWR Pin=VD6-2
+Added Pin To Net: NetName=12V PWR Pin=VD10-2
+Added Pin To Net: NetName=NetDD7_6 Pin=VT1-1
+Added Pin To Net: NetName=NetR9_1 Pin=VT2-1
+Added Pin To Net: NetName=RevDownLeft Pin=VT5-1
+Added Pin To Net: NetName=GND Pin=VT5-2
+Added Pin To Net: NetName=12V Pin=VT7-2
+Added Pin To Net: NetName=GND Pin=VT8-2
+Added Pin To Net: NetName=RevDownRight Pin=VT9-1
+Added Pin To Net: NetName=GND Pin=VT9-2
+Added Pin To Net: NetName=NetR40_1 Pin=VT9-3
+Added Pin To Net: NetName=NetR40_1 Pin=VT10-1
+Added Pin To Net: NetName=12V Pin=VT10-2
+Added Pin To Net: NetName=PumpRightRedLed Pin=VT10-3
+Added Pin To Net: NetName=PumpLeft+/- Pin=VT11-2
+Added Pin To Net: NetName=NetR30_1 Pin=VT11-3
+Added Pin To Net: NetName=PumpLeft+/- Pin=VT12-4
+Added Pin To Net: NetName=PumpRightRed Pin=VT13-1
+Added Pin To Net: NetName=PumpRight+/- Pin=VT13-2
+Added Pin To Net: NetName=PumpRight+/- Pin=VT14-4
+Added Pin To Net: NetName=PumpRightGreen Pin=VT15-1
+Added Pin To Net: NetName=PumpLeft-/+ Pin=VT15-2
+Added Pin To Net: NetName=NetR30_1 Pin=VT15-3
+Added Pin To Net: NetName=PumpLeftGreen Pin=VT16-1
+Added Pin To Net: NetName=PumpLeft-/+ Pin=VT16-4
+Added Pin To Net: NetName=PumpLeftRed Pin=VT17-1
+Added Pin To Net: NetName=PumpRight-/+ Pin=VT17-2
+Added Pin To Net: NetName=NetR37_1 Pin=VT18-1
+Added Pin To Net: NetName=PumpRight-/+ Pin=VT18-4
+Added Pin To Net: NetName=NetR44_1 Pin=VT19-1
+Added Pin To Net: NetName=12V Pin=VT19-2
+Added Pin To Net: NetName=PumpRightGreenLed Pin=VT19-3
+Added Pin To Net: NetName=ForDownLeft Pin=VT20-1
+Added Pin To Net: NetName=NetR36_1 Pin=VT21-1
+Added Pin To Net: NetName=12V Pin=VT21-2
+Added Pin To Net: NetName=PumpLeftRedLed Pin=VT21-3
+Added Pin To Net: NetName=ForDownRight Pin=VT22-1
+Added Pin To Net: NetName=GND Pin=VT22-2
+Added Pin To Net: NetName=NetR36_1 Pin=VT22-3
+Added Pin To Net: NetName=PumpLeftGreen Pin=VT23-3
+Added Pin To Net: NetName=RevUpRight Pin=VT24-1
+Added Pin To Net: NetName=GND Pin=VT24-2
+Added Pin To Net: NetName=NetR37_1 Pin=VT24-3
+Added Pin To Net: NetName=GND Pin=XP3-2
+Added Pin To Net: NetName=GND Pin=XP4-2
+Added Pin To Net: NetName=GND Pin=XP5-2
+Added Pin To Net: NetName=GND Pin=XP6-2
+Added Pin To Net: NetName=BKN3/1 Pin=XP8-4
+Change Net Name : Old Net Name=12V PWR New Net Name=NetR39_1
+Change Net Name : Old Net Name=BKN3/1 New Net Name=SYSFuelRedLed
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC31_1
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetDD5_6 New Net Name=NetDD7_6
+Change Net Name : Old Net Name=NetDD7_6 New Net Name=SYSFuelRed
+Change Net Name : Old Net Name=NetR9_1 New Net Name=SYSFuelGr
+Change Net Name : Old Net Name=NetR10_1 New Net Name=P2SYSRightRed
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR13_2 New Net Name=P2SYSRightGreen
+Change Net Name : Old Net Name=NetR14_2 New Net Name=P1SYSLeftRed
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR32_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=P1SYSLeftGreen
+Change Net Name : Old Net Name=NetR36_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR50_1
+Change Net Name : Old Net Name=NetR44_1 New Net Name=NetR48_1
+Change Net Name : Old Net Name=PumpLeftGreen New Net Name=NetR47_1
+Change Net Name : Old Net Name=PumpLeftGreenLed New Net Name=SYSFuelGrLed
+Change Net Name : Old Net Name=PumpLeftRed New Net Name=NetR46_2
+Change Net Name : Old Net Name=PumpLeftRedLed New Net Name=NetR46_1
+Change Net Name : Old Net Name=PumpRightGreen New Net Name=NetR45_2
+Change Net Name : Old Net Name=PumpRightGreenLed New Net Name=NetR45_1
+Change Net Name : Old Net Name=PumpRightRed New Net Name=NetR42_2
+Change Net Name : Old Net Name=PumpRightRedLed New Net Name=NetR42_1
+Added Pin To Net: NetName=12V PWR Pin=C9-1
+Added Pin To Net: NetName=12V PWR Pin=C11-1
+Added Pin To Net: NetName=12V PWR Pin=C13-1
+Added Pin To Net: NetName=12V PWR Pin=L1-2
+Added Pin To Net: NetName=12V PWR Pin=VD3-1
+Added Pin To Net: NetName=12V PWR Pin=VD5-1
+Added Pin To Net: NetName=12V PWR Pin=VD7-1
+Added Pin To Net: NetName=12V PWR Pin=VD9-1
+Added Pin To Net: NetName=12V PWR Pin=VT12-3
+Added Pin To Net: NetName=12V PWR Pin=VT14-3
+Added Pin To Net: NetName=12V PWR Pin=VT16-3
+Added Pin To Net: NetName=12V PWR Pin=VT18-3
+Added Net: Name=12V PWR
+Added Pin To Net: NetName=ForUpRight Pin=DD9-6
+Added Pin To Net: NetName=ForUpRight Pin=R36-2
+Added Pin To Net: NetName=ForUpRight Pin=VT8-1
+Added Net: Name=ForUpRight
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=NetDD2_4 Pin=R10-1
+Added Net: Name=NetDD2_4
+Added Pin To Net: NetName=NetDD2_6 Pin=DD2-6
+Added Pin To Net: NetName=NetDD2_6 Pin=R9-1
+Added Net: Name=NetDD2_6
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=NetDD3_4 Pin=R12-1
+Added Net: Name=NetDD3_4
+Added Pin To Net: NetName=NetDD3_6 Pin=DD3-6
+Added Pin To Net: NetName=NetDD3_6 Pin=R11-1
+Added Net: Name=NetDD3_6
+Added Pin To Net: NetName=NetDD6_1 Pin=DD6-1
+Added Pin To Net: NetName=NetDD6_1 Pin=R23-1
+Added Pin To Net: NetName=NetDD6_1 Pin=R26-2
+Added Net: Name=NetDD6_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=XP1-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=XP3-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=XP4-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=XP5-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=XP6-1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=VT8-3
+Added Pin To Net: NetName=NetR29_1 Pin=VT14-1
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=VT5-3
+Added Pin To Net: NetName=NetR30_1 Pin=VT7-1
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=VT6-3
+Added Pin To Net: NetName=NetR33_1 Pin=VT12-1
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=NetR41_1 Pin=VT7-3
+Added Net: Name=NetR41_1
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR41_2 Pin=VT11-1
+Added Net: Name=NetR41_2
+Added Member To Class: ClassName=BKN-3 Member=Component C29 0603-0.47uF-50V
+Added Member To Class: ClassName=BKN-3 Member=Component C30 0603-0.47uF-50V
+Added Member To Class: ClassName=BKN-3 Member=Component C31 0603-0.47uF-50V
+Added Member To Class: ClassName=BKN-3 Member=Component C32 0805-0.1uF-100V
+Added Member To Class: ClassName=BKN-3 Member=Component C33 0805-0.1uF-100V
+Added Member To Class: ClassName=BKN-3 Member=Component C34 0805-0.1uF-100V
+Added Member To Class: ClassName=BKN-3 Member=Component C35 0805-0.1uF-100V
+Added Member To Class: ClassName=BKN-3 Member=Component DD9 SN74LVC2G17DBVR
+Added Member To Class: ClassName=BKN-3 Member=Component DD10 SN74LVC2G17DBVR
+Added Member To Class: ClassName=BKN-3 Member=Component L1 SRP1265A-3R3M
+Added Member To Class: ClassName=BKN-3 Member=Component R46 0603-10 Ohm-1%
+Added Member To Class: ClassName=BKN-3 Member=Component R47 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R48 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R49 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R50 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R51 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R52 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R53 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component R54 0603-5.1KOhm-5%
+Added Member To Class: ClassName=BKN-3 Member=Component VT21 IRLML2244TRPBF
+Added Member To Class: ClassName=BKN-3 Member=Component VT22 IRLML6244TRPBF
+Added Member To Class: ClassName=BKN-3 Member=Component VT23 IRLML6244TRPBF
+Added Member To Class: ClassName=BKN-3 Member=Component VT24 IRLML6244TRPBF
+Added Member To Class: ClassName=BKN-3 Member=Component XP5 PLS-2
+Added Member To Class: ClassName=BKN-3 Member=Component XP6 PLS-2
+Added Member To Class: ClassName=BKN-3 Member=Component XP7 MR30PW-M
+Added Member To Class: ClassName=BKN-3 Member=Component XP8 D15P33E4GV00LF
+Added Room: Name=BKN-3
